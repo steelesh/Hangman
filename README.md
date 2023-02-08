@@ -1,5 +1,5 @@
 <h1 align="center">Hangman</h1>
-<p><b>Demo: <a href="https://steelesh.github.io/JS-Hangman/"a>View it here</a></b></p>
+<p><b>Demo: <a href="https://steelesh.github.io/Hangman/"a>View it here</a></b></p>
 
 <h1>Execution</h1>
 
